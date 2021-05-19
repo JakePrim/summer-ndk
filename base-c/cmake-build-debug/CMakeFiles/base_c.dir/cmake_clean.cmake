@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/base_c.dir/main.c.obj"
+  "CMakeFiles/base_c.dir/T5.c.obj"
+  "CMakeFiles/base_c.dir/T6.c.obj"
+  "CMakeFiles/base_c.dir/T7.c.obj"
   "base_c.exe"
   "base_c.exe.manifest"
   "base_c.lib"

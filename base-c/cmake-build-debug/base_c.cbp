@@ -82,7 +82,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/workspaces/summer-ndk/base-c/main.c">
+		<Unit filename="D:/workspaces/summer-ndk/base-c/T5.c">
+			<Option target="base_c"/>
+		</Unit>
+		<Unit filename="D:/workspaces/summer-ndk/base-c/T6.c">
+			<Option target="base_c"/>
+		</Unit>
+		<Unit filename="D:/workspaces/summer-ndk/base-c/T7.c">
 			<Option target="base_c"/>
 		</Unit>
 		<Unit filename="D:/workspaces/summer-ndk/base-c/CMakeLists.txt">
