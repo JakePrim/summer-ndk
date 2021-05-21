@@ -28,7 +28,7 @@ void show(AV* a){
 
 
 
-int main(){
+int mainT6(){
     //两种平台的写法就会一致
     Worker worker = malloc(sizeof(Worker_));
 

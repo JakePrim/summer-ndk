@@ -4,11 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/workspaces/summer-ndk/base-c/T5.c" "D:/workspaces/summer-ndk/base-c/cmake-build-debug/CMakeFiles/base_c.dir/T5.c.obj"
-  "D:/workspaces/summer-ndk/base-c/T6.c" "D:/workspaces/summer-ndk/base-c/cmake-build-debug/CMakeFiles/base_c.dir/T6.c.obj"
-  "D:/workspaces/summer-ndk/base-c/T7.c" "D:/workspaces/summer-ndk/base-c/cmake-build-debug/CMakeFiles/base_c.dir/T7.c.obj"
+  "D:/workspaces/summer-ndk/base-c/stringT.c" "D:/workspaces/summer-ndk/base-c/cmake-build-debug/CMakeFiles/base_c.dir/stringT.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "MSVC")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

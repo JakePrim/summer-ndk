@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/base_c.dir/T5.c.obj"
-  "CMakeFiles/base_c.dir/T6.c.obj"
-  "CMakeFiles/base_c.dir/T7.c.obj"
+  "CMakeFiles/base_c.dir/stringT.c.obj"
   "base_c.exe"
   "base_c.exe.manifest"
-  "base_c.lib"
   "base_c.pdb"
+  "libbase_c.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

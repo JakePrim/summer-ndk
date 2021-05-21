@@ -123,7 +123,8 @@ void cutout4(char *result,char *dest,int start,int end){
  * 字符串的两种创建方式
  * @return
  */
-int mainTT(){
+int main(){
+    printf("123");
     //通过数组创建字符串
     char str[] = {'H','e','l','l','o','\0'};
     str[2] = 'r';
@@ -196,7 +197,7 @@ int mainTT(){
     printf("转换后的结果:%s\n",dist);//转换后的结果:jakeprim
 
     //截取字符串
-    char *result2="";
+    char result2[1000]="ABC";
     cutout4(result2,name,2,6);
     printf("截取的字符串:%s\n",result2);//截取的字符串:kePr
 

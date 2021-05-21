@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/workspaces/summer-ndk/base-c/T5.c
+D:/workspaces/summer-ndk/base-c/stringT.c
 stdio.h
 -
 stdlib.h
 -
 string.h
+-
+ctype.h
 -
 

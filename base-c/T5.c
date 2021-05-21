@@ -8,7 +8,7 @@ struct Cat3{
     char name[10];
     int age;
 };
-int main(){
+int mainT5(){
     //结构体数组
     struct Cat3 cat3[10]={
             {"xs",1},
